@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxext-rediraffe/commit/47273a20adad2e95732014fc0fecce13d31e36dc",
       "git:hexsha": "47273a20adad2e95732014fc0fecce13d31e36dc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.0",
+      "repolex:parsedAt": "2026-10-11T23:25:41.266575+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxext-rediraffe/commit/6796d932ff66ffe1a2b6d46372590bff53e51923",
