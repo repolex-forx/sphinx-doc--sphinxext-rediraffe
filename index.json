@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxext-rediraffe",
+  "versions": [
+    {
+      "commit": "47273a20adad2e95732014fc0fecce13d31e36dc",
+      "tag": "v0.3.0",
+      "parsed_at": "2026-10-11T23:25:41.267032+00:00"
+    }
+  ]
+}
